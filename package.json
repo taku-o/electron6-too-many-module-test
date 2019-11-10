@@ -40,7 +40,6 @@
     "asar": "^0.14.6",
     "chai": "^4.2.0",
     "devtron": "^1.4.0",
-    "electron": "^5.0.12",
     "electron-packager": "^12.2.0",
     "electron-rebuild": "^1.8.6",
     "eslint": "^5.6.1",
@@ -65,14 +64,15 @@
     "mocha": "^4.1.0",
     "node-notifier": "^5.4.0",
     "source-map-support": "^0.5.12",
-    "spectron": "^7.0.0",
     "typescript": "^3.4.5",
     "wav-fmt-validator": "^0.1.2",
     "yargs": "^12.0.5"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "package": "electron-packager . demoApp --platform=darwin --electron-version=6.1.4 --arch=x64 --overwrite --asar --no-prune"
+    "package7": "electron-packager . demoApp --platform=darwin --electron-version=7.1.1 --arch=x64 --overwrite --asar --no-prune",
+    "package6": "electron-packager . demoApp --platform=darwin --electron-version=6.1.4 --arch=x64 --overwrite --asar --no-prune",
+    "package5": "electron-packager . demoApp --platform=darwin --electron-version=5.0.12 --arch=x64 --overwrite --asar --no-prune"
   },
   "repository": {
     "type": "git",

@@ -6,6 +6,12 @@
 
 ```
 npm install
-npm run package
+
+npm run package7
+    # or
+npm run package6
+    # or
+npm run package5
+    # or
 ```
 
