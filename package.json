@@ -10,7 +10,7 @@
     "@types/node": "^10.14.5",
     "@types/temp": "^0.8.34",
     "@types/webdriverio": "^4.13.3",
-    "angular": "^1.7.8",
+    "angular": "^1.7.9",
     "angular-input-highlight": "^0.1.2",
     "angular-ui-grid": "^4.7.1",
     "cryptico.js": "^1.2.0",
