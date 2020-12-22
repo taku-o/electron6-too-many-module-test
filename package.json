@@ -62,7 +62,7 @@
     "gulp-using": "^0.1.1",
     "gulp-wrapper": "^1.0.0",
     "mocha": "^4.1.0",
-    "node-notifier": "^5.4.0",
+    "node-notifier": "^8.0.1",
     "source-map-support": "^0.5.12",
     "typescript": "^3.4.5",
     "wav-fmt-validator": "^0.1.2",
